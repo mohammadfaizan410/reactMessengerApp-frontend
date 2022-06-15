@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactMessagerApp-frontend/static/css/main.5b54a68d.css",
+    "main.js": "/reactMessagerApp-frontend/static/js/main.ab328d55.js",
+    "index.html": "/reactMessagerApp-frontend/index.html",
+    "main.5b54a68d.css.map": "/reactMessagerApp-frontend/static/css/main.5b54a68d.css.map",
+    "main.ab328d55.js.map": "/reactMessagerApp-frontend/static/js/main.ab328d55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b54a68d.css",
+    "static/js/main.ab328d55.js"
+  ]
+}
